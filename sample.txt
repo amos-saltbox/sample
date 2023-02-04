@@ -1,5 +1,6 @@
 hello from Dev
 after publish
 edited from remote.
+changed again from remote before getting new code from local
 change in local again.
 another change in local before pulling changes in remote.
