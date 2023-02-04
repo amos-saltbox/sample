@@ -1,2 +1,3 @@
 hello from Dev
-after publishing
+after publish
+edited from remote.
